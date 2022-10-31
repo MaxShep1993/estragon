@@ -9,4 +9,6 @@ class enter : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_enter)
     }
+
+    val v =10
 }
